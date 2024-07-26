@@ -16,7 +16,7 @@ function  Nav() {
             <div className='flex items-center mx-7 md:mr-36 mr-4 text-sm md:text-xl'>
             <div ><Link className='mx-11 cursor-pointer active:translate-y-0.5 p-1  hover:text-zinc-200 rounded-lg' to='/'>shop</Link> </div>
             <div className='relative' ><Link className=' cursor-pointer active:translate-y-0.5   p-1 hover:text-zinc-200 rounded-lg' to='/card'><FontAwesomeIcon icon={faShoppingCart} /></Link>
-            {count>0&&<span className='flex justify-center items-center absolute md:h-5 md:w-5 w-4 h-4 rounded-full bg-red-100 text-sm text-black md:-top-1  -right-1 sm:-top-3'>{count}</span>}</div>
+            {count>0&&<span className='flex justify-center items-center absolute md:h-5 md:w-5 w-4 h-4 rounded-full bg-red-100 text-sm text-black md:-top-1  -right-1 -top-3'>{count}</span>}</div>
             </div>
         </div>
     )
