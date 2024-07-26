@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-shopping/static/css/main.f853227c.css",
+    "main.js": "/online-shopping/static/js/main.c2bdbdbb.js",
+    "static/js/453.ed3810f9.chunk.js": "/online-shopping/static/js/453.ed3810f9.chunk.js",
+    "static/media/headphone.png": "/online-shopping/static/media/headphone.4ba3361ad4ce042e0b8b.png",
+    "index.html": "/online-shopping/index.html",
+    "main.f853227c.css.map": "/online-shopping/static/css/main.f853227c.css.map",
+    "main.c2bdbdbb.js.map": "/online-shopping/static/js/main.c2bdbdbb.js.map",
+    "453.ed3810f9.chunk.js.map": "/online-shopping/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f853227c.css",
+    "static/js/main.c2bdbdbb.js"
+  ]
+}
