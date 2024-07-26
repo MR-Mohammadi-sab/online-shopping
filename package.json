@@ -1,6 +1,6 @@
 {
-  "homepage":"https://MR-mohammadi-sab.github.io/online-shopping/",
-  "name": "my-app",
+  "homepage":"https://mr-mohammadi-sab.github.io/online-shopping",
+   "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,9 +17,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start": "react-scripts start",   
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
