@@ -19,8 +19,5 @@ export function Cart(){
       
     <div className=" flex justify-center items-center w-full">
     <button className="py-2 px-3 bg-red-400 rounded-xl active:translate-y-0.5" onClick={reset}>Reset</button></div>
-
-    <div className=" flex justify-center items-center w-full mt-2">
-    <h1>these things you want to buy</h1></div>
     </div>
 }
